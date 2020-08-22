@@ -6,15 +6,3 @@ body {
   background-image:linear-gradient(120deg, #f00079, #F2A041);
 }
 
-html {
-  height:100%;
-}
-
-.badDev {
-  position:fixed;
-  left:50%;
-  bottom:20px;
-  transform:translate(-50%, -50%);
-  margin:0 auto;
-}
-
